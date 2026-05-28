@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Maik Braga
+# Maik Braga
 
 ### Tech Lead • Founder • Builder of digital products
 
@@ -25,7 +25,7 @@ Turning coffee ☕ into scalable software since forever.
 
 </div>
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
 ```ts
 const maik = {
@@ -60,25 +60,29 @@ const maik = {
 }
 ```
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,reactnative,nestjs,aws,docker,kubernetes,postgres,mongodb,redis,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nestjs,aws,docker,kubernetes,postgres,mongodb,redis,git,github,vscode" />
 
 </div>
 
-# 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikmb&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikmb&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maikmb&theme=radical" />
 
 </div>
 
-# 🌍 Connect with me
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maikmb&theme=react-dark" />
+
+</div>
+
+### 🌍 Connect with me
 
 <div align="center">
 
